@@ -1,4 +1,4 @@
-package Day3;
+package Day3_OperatorsAndExpression;
 
 public class OperatorsDemo {
 
